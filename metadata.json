@@ -1,0 +1,6 @@
+{
+  "name": "AutoLiaison PH — LTO Operations & Services Dashboard",
+  "description": "Internal operations dashboard prototype for Philippine Land Transportation Office (LTO) liaison and transaction processing services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
